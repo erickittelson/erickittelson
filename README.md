@@ -1,62 +1,46 @@
 ### Eric Kittelson
 
-Grew up in a mobile home in Riverside, California. Dropped out at fifteen. Joined the Navy at nineteen with nothing but test scores and desperation. Spent twelve years as an intelligence analyst — deployed to Iraq as a lead targeter for SEAL operations, supported special warfare across the Pacific, watched my wife beat cancer at twenty-one. Got out, taught myself to code, built a veteran transition tool on my kitchen table, sold it for six figures. Now I build companies.
+I don't write code. I figure out how to use AI tools, modern platforms, and whatever else is available to build things that shouldn't exist yet. Most of the projects below were built with Claude, Cursor, and other AI-assisted workflows — I'm the product thinker, not the engineer. I just refuse to let "I don't know how" be the reason something doesn't get built.
+
+Navy veteran. Twelve years as an intelligence analyst. Got out and started making things.
 
 ---
 
-#### What I Run
+#### What I'm Working On
 
-**[Quiet Victory Labs](https://github.com/Quiet-Victory-Labs)** — Product studio. AI-powered apps, full-stack platforms, mobile experiences. If it ships, it came through here.
+**[Quiet Victory Labs](https://github.com/Quiet-Victory-Labs)** — Product studio where most of my projects live. AI-powered apps, web platforms, mobile experiences.
 
-**[Digital Saber](https://github.com/digital-saber)** — Hardware + software for passive multi-radio detection. ESP32 firmware, Kubernetes GitOps, native iOS/Android, Terraform infrastructure. Built from prototype to product.
+**[Digital Saber](https://github.com/digital-saber)** — Hardware + software for passive multi-radio detection. ESP32 sensors, mobile apps, cloud infrastructure. Took this from napkin sketch to working product.
 
-**[Brave Ready](https://github.com/Brave-Ready)** — Fitness, wellness, and veteran transition tools.
+**[Brave Ready](https://github.com/Brave-Ready)** — Fitness and wellness platform with AI coaching. Also where the veteran transition work started — built a tool on my kitchen table with a Fiverr developer and YouTube tutorials, turned it into a nonprofit, and it got acquired.
 
----
+**[Repcir](https://github.com/Quiet-Victory-Labs/repcir-web-app)** — AI-powered fitness app. Workout generation, Stripe billing, performance analytics.
 
-#### What I'm Building
+**[slidemason](https://github.com/erickittelson/slidemason)** — Open-source, local-first presentation builder powered by agentic AI. No cloud, no lock-in.
 
-| Project | What It Is | Stack |
-|---------|-----------|-------|
-| **[slidemason](https://github.com/erickittelson/slidemason)** | Open-source, local-first presentation builder. Agentic AI workflows, 12 themes, zero cloud. | React, Vite, Framer Motion, monorepo |
-| **gemini-vertex-poc** | Multi-agent data orchestration — routes NL queries across Alation, BigQuery, and data products with cost controls. | Python, Google ADK, Vertex AI, Alation SDK |
-| **Repcir** | AI-powered fitness platform — workout generation, Stripe billing, performance analytics, background jobs. | Next.js, Drizzle, OpenAI, Inngest, Stripe |
-| **WeExplore** | Cross-platform travel app with maps, camera, push notifications. | Expo, React Native, Supabase, Clerk |
-| **SV Swag** | Merch e-commerce with type-safe APIs and admin panel. | Next.js, tRPC, Prisma, Stripe |
-| **Saber Alert** | Passive detection hardware + software platform. ESP32 firmware, mobile apps, cloud infrastructure. | C/C++, Swift, Kotlin, Python, Terraform, K8s |
+**[WeExplore](https://github.com/Quiet-Victory-Labs/weexplore-mobile)** — Cross-platform travel app. Maps, camera, push notifications.
+
+**Saber Alert** — The Digital Saber product. ESP32 firmware, native iOS/Android, Kubernetes, Terraform. Full stack from hardware to cloud.
 
 ---
 
-#### Stack
+#### Daily Fantasy Sports
 
-```
-Python       ████████████░░  AI agents, data pipelines, intelligence tools
-TypeScript   ██████████████  Full-stack web, APIs, tooling
-React Native ███████░░░░░░░  Mobile (Expo)
-Swift/Kotlin █████░░░░░░░░░  Native mobile
-C/C++        ████░░░░░░░░░░  ESP32 firmware
-HCL          ███░░░░░░░░░░░  Terraform (AWS + GCP)
-```
+Before all of this, I spent years building data models and analytics tools for DFS on DraftKings and FanDuel. Python scrapers, statistical models, lineup optimizers. Won six figures doing it. That's where I first learned that if you can find the right data and build the right system around it, you can compete with anyone — even without a traditional background.
 
-**AI:** Google ADK, Vertex AI, OpenAI, Vercel AI SDK, RAG, multi-agent orchestration
+---
 
-**Web:** Next.js, React, Tailwind, Radix, tRPC, Drizzle, Prisma
+#### How I Build
 
-**Data:** BigQuery, Neon, Supabase, Alation, pgvector, PostgreSQL
+I don't have a CS degree. I dropped out of high school at fifteen. Everything I know about building products came from figuring it out — reading docs, using AI tools, hiring people smarter than me, and refusing to stop until the thing works.
 
-**Mobile:** Expo, React Native, SwiftUI, Jetpack Compose
-
-**Infra:** Vercel, GCP, AWS, Terraform, Kubernetes, GitLab CI/CD, Inngest, Stripe, Sentry, PostHog
-
-**Hardware:** ESP32, Zephyr RTOS, BLE/WiFi sniffing, custom PCB design
+The tools change constantly. Right now it's Claude Code, Cursor, Next.js, Expo, Python, Vercel, Neon, Stripe, OpenAI, Google ADK. Next year it'll be something else. The constant is the approach: find the problem, learn enough to be dangerous, use whatever modern tooling exists to close the gap, ship it.
 
 ---
 
 #### The Book
 
-I'm writing a memoir called ***The Bear Was Never Magic*** — about growing up with nothing, building yourself from scratch, and becoming the parent you never had. 50 chapters across five parts. Currently in review with family.
-
-*"This is a field guide from a kid nobody saved who had to become the adult he needed."*
+Writing a memoir called ***The Bear Was Never Magic***. About growing up with nothing and building a life anyway. 50 chapters. Currently in review.
 
 ---
 
