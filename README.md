@@ -8,7 +8,7 @@
 
 Entrepreneur, product manager, and builder. I take ideas from zero to shipped product using whatever tools and platforms are available — cloud, AI, open source, hardware, duct tape. If it exists and it helps, I'll figure out how to use it.
 
-Navy veteran — twelve years as an intelligence analyst supporting special warfare operations. Now working in data governance and product management at Electronic Arts, previously at Blizzard Entertainment.
+⚓ Navy veteran — twelve years as an intelligence analyst supporting special warfare operations. Now working in data governance and product management at 🎮 Electronic Arts, previously at 🏔️ Blizzard Entertainment.
 
 <br clear="right"/>
 
@@ -16,21 +16,21 @@ Navy veteran — twelve years as an intelligence analyst supporting special warf
 
 ### What I'm Building
 
-**[Quiet Victory Labs](https://www.quietvictorylabs.com/)** — Product studio. Apps, web platforms, mobile experiences. The umbrella for most of my work.
+🏴 **[Quiet Victory Labs](https://www.quietvictorylabs.com/)** — Product studio. Apps, web platforms, mobile experiences. The umbrella for most of my work.
 
-**[Digital Saber](https://digitalsaber.io) / [Saber Alert](https://saberalert.com)** — Hardware + software for passive multi-radio detection. Custom ESP32 sensors, native mobile apps, cloud infrastructure. Took this from idea to working product.
+📡 **[Digital Saber](https://digitalsaber.io) / [Saber Alert](https://saberalert.com)** — Hardware + software for passive multi-radio detection. Custom ESP32 sensors, native mobile apps, cloud infrastructure. Took this from idea to working product.
 
-**[Brave Ready](https://www.braveready.org/)** — Fitness, wellness, and veteran transition. Started by building a transition tool on my kitchen table with a Fiverr developer and YouTube tutorials. Turned it into a nonprofit, and it got acquired.
+🎖️ **[Brave Ready](https://www.braveready.org/)** — Fitness, wellness, and veteran transition. Started by building a transition tool on my kitchen table with a Fiverr developer and YouTube tutorials. Turned it into a nonprofit, and it got acquired.
 
-**[Repcir](https://www.repcir.com/)** — AI-powered fitness platform. Workout generation, payments, performance analytics.
+💪 **[Repcir](https://www.repcir.com/)** — AI-powered fitness platform. Workout generation, payments, performance analytics.
 
-**[slidemason](https://github.com/erickittelson/slidemason)** — Open-source, local-first presentation builder powered by agentic AI. No cloud, no lock-in.
+🎨 **[slidemason](https://github.com/erickittelson/slidemason)** — Open-source, local-first presentation builder powered by agentic AI. No cloud, no lock-in.
 
-**[WeExplore](https://weexplore.vercel.app/)** — Cross-platform travel app. Maps, camera, push notifications.
+🌍 **[WeExplore](https://weexplore.vercel.app/)** — Cross-platform travel app. Maps, camera, push notifications.
 
 ---
 
-### Daily Fantasy Sports
+### 🃏 Daily Fantasy Sports
 
 Before all of this, I spent years building data models and optimization tools for DFS on DraftKings and FanDuel. Scrapers, statistical models, lineup optimizers. Won over six figures. That's where I first learned that if you find the right data and build the right system around it, you can compete with anyone.
 
@@ -63,7 +63,7 @@ Before all of this, I spent years building data models and optimization tools fo
 
 ---
 
-### The Book
+### 📖 The Book
 
 Writing a memoir called ***The Bear Was Never Magic***. About growing up with nothing and building a life anyway. 50 chapters. Currently in review.
 
