@@ -1,44 +1,42 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Navy+vet.+Founder.+Builder.;I+don't+write+code+%E2%80%94+I+use+AI+to+build+products.;Figure+it+out.+Ship+it.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Navy+vet.+Founder.+Builder.;Figure+it+out.+Ship+it.+Repeat.;If+it+can+be+built%2C+I'll+find+a+way." alt="Typing SVG" />
 </a>
 
 <img align="right" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub Octocat" />
 
 ### Eric Kittelson
 
-I don't write code. I figure out how to use AI tools, modern platforms, and whatever else is available to build things that shouldn't exist yet. Most of the projects below were built with Claude, Cursor, and other AI-assisted workflows — I'm the product thinker, not the engineer. I just refuse to let "I don't know how" be the reason something doesn't get built.
+Entrepreneur and builder. I use AI, modern platforms, and whatever tools exist to take ideas from zero to shipped product. Most of what you see here started as a napkin sketch or a problem I couldn't stop thinking about.
 
-Navy veteran. Twelve years as an intelligence analyst. Got out and started making things.
+Navy veteran — twelve years as an intelligence analyst supporting special warfare operations. Got out, started building companies, and never looked back.
 
 <br clear="right"/>
 
 ---
 
-### What I'm Working On
+### What I'm Building
 
-**[Quiet Victory Labs](https://www.quietvictorylabs.com/)** — Product studio where most of my projects live. AI-powered apps, web platforms, mobile experiences.
+**[Quiet Victory Labs](https://www.quietvictorylabs.com/)** — Product studio. AI-powered apps, web platforms, mobile experiences. The umbrella for most of my work.
 
-**[Digital Saber](https://digitalsaber.io)** — Hardware + software for passive multi-radio detection. ESP32 sensors, mobile apps, cloud infrastructure. Took this from napkin sketch to working product.
+**[Digital Saber](https://digitalsaber.io) / [Saber Alert](https://saberalert.com)** — Hardware + software for passive multi-radio detection. Custom ESP32 sensors, native mobile apps, cloud infrastructure. Took this from idea to working product.
 
-**[Brave Ready](https://www.braveready.org/)** — Fitness and wellness platform with AI coaching. Also where the veteran transition work started — built a tool on my kitchen table with a Fiverr developer and YouTube tutorials, turned it into a nonprofit, and it got acquired.
+**[Brave Ready](https://www.braveready.org/)** — Fitness, wellness, and veteran transition. Started by building a transition tool on my kitchen table with a Fiverr developer and YouTube tutorials. Turned it into a nonprofit, and it got acquired.
 
-**[Repcir](https://www.repcir.com/)** — AI-powered fitness app. Workout generation, Stripe billing, performance analytics.
+**[Repcir](https://www.repcir.com/)** — AI-powered fitness platform. Workout generation, payments, performance analytics.
 
 **[slidemason](https://github.com/erickittelson/slidemason)** — Open-source, local-first presentation builder powered by agentic AI. No cloud, no lock-in.
 
 **[WeExplore](https://weexplore.vercel.app/)** — Cross-platform travel app. Maps, camera, push notifications.
 
-**[Saber Alert](https://saberalert.com)** — The Digital Saber product. ESP32 firmware, native iOS/Android, Kubernetes, Terraform. Full stack from hardware to cloud.
-
 ---
 
 ### Daily Fantasy Sports
 
-Before all of this, I spent years building data models and analytics tools for DFS on DraftKings and FanDuel. Python scrapers, statistical models, lineup optimizers. Won six figures doing it. That's where I first learned that if you can find the right data and build the right system around it, you can compete with anyone — even without a traditional background.
+Before all of this, I spent years building data models and optimization tools for DFS on DraftKings and FanDuel. Scrapers, statistical models, lineup optimizers. Won over six figures. That's where I first learned that if you find the right data and build the right system around it, you can compete with anyone.
 
 ---
 
-### Tools I Use to Build
+### Tools I Build With
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,6 +46,7 @@ Before all of this, I spent years building data models and analytics tools for D
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -61,14 +60,6 @@ Before all of this, I spent years building data models and analytics tools for D
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-
----
-
-### How I Build
-
-I don't have a CS degree. I dropped out of high school at fifteen. Everything I know about building products came from figuring it out — reading docs, using AI tools, hiring people smarter than me, and refusing to stop until the thing works.
-
-The tools change constantly. Right now it's Claude Code, Cursor, Next.js, Expo, Python, Vercel, Neon, Stripe, OpenAI, Google ADK. Next year it'll be something else. The constant is the approach: find the problem, learn enough to be dangerous, use whatever modern tooling exists to close the gap, ship it.
 
 ---
 
@@ -98,4 +89,3 @@ Writing a memoir called ***The Bear Was Never Magic***. About growing up with no
 </p>
 
 <p align="center">San Antonio, TX</p>
-
