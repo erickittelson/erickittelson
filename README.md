@@ -6,9 +6,9 @@
 
 ### Eric Kittelson
 
-Entrepreneur and builder. I use AI, modern platforms, and whatever tools exist to take ideas from zero to shipped product. Most of what you see here started as a napkin sketch or a problem I couldn't stop thinking about.
+Entrepreneur, product manager, and builder. I take ideas from zero to shipped product using whatever tools and platforms are available — cloud, AI, open source, hardware, duct tape. If it exists and it helps, I'll figure out how to use it.
 
-Navy veteran — twelve years as an intelligence analyst supporting special warfare operations. Got out, started building companies, and never looked back.
+Navy veteran — twelve years as an intelligence analyst supporting special warfare operations. Now working in data governance and product management at Electronic Arts, previously at Blizzard Entertainment.
 
 <br clear="right"/>
 
@@ -16,7 +16,7 @@ Navy veteran — twelve years as an intelligence analyst supporting special warf
 
 ### What I'm Building
 
-**[Quiet Victory Labs](https://www.quietvictorylabs.com/)** — Product studio. AI-powered apps, web platforms, mobile experiences. The umbrella for most of my work.
+**[Quiet Victory Labs](https://www.quietvictorylabs.com/)** — Product studio. Apps, web platforms, mobile experiences. The umbrella for most of my work.
 
 **[Digital Saber](https://digitalsaber.io) / [Saber Alert](https://saberalert.com)** — Hardware + software for passive multi-radio detection. Custom ESP32 sensors, native mobile apps, cloud infrastructure. Took this from idea to working product.
 
