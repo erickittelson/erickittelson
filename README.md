@@ -44,4 +44,10 @@ Writing a memoir called ***The Bear Was Never Magic***. About growing up with no
 
 ---
 
+#### Links
+
+[Quiet Victory Labs](https://www.quietvictorylabs.com/) | [Repcir](https://www.repcir.com/) | [Brave Ready](https://www.braveready.org/) | [Digital Saber](https://digitalsaber.io) | [Saber Alert](https://saberalert.com) | [WeExplore](https://weexplore.vercel.app/) | [SV Swag](https://www.svswag.org/) | [Baxter Built](https://baxterbuilttx.com/) | [Cheer with Reagan](https://cheerwithreagan.com/) | [Portfolio](https://portolio-eric.vercel.app/)
+
+---
+
 San Antonio, TX
