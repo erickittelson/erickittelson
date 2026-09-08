@@ -16,17 +16,11 @@ Entrepreneur, product manager, and builder. I take ideas from zero to shipped pr
 
 ### What I'm Building
 
-🏴 **[Quiet Victory Labs](https://www.quietvictorylabs.com/)** — Product studio. Apps, web platforms, mobile experiences. The umbrella for most of my work.
-
 📡 **[Digital Saber](https://digitalsaber.io) / [Saber Alert](https://saberalert.com)** — Hardware + software for passive multi-radio detection. Custom ESP32 sensors, native mobile apps, cloud infrastructure. Took this from idea to working product.
 
 🎖️ **[Brave Ready](https://www.braveready.org/)** — Fitness, wellness, and veteran transition. Started by building a transition tool on my kitchen table with a Fiverr developer and YouTube tutorials. Turned it into a nonprofit, and it got acquired.
 
 💪 **[Repcir](https://www.repcir.com/)** — AI-powered fitness platform. Workout generation, payments, performance analytics.
-
-🎨 **[slidemason](https://github.com/erickittelson/slidemason)** — Open-source, local-first presentation builder powered by agentic AI. No cloud, no lock-in.
-
-🌍 **[WeExplore](https://weexplore.vercel.app/)** — Cross-platform travel app. Maps, camera, push notifications.
 
 ---
 
